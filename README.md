@@ -3,7 +3,7 @@
 ## Project Overview
 This project turns a vintage Hanimex E300 Super 8 Viewer into a mini CRT look-alike computer running a Raspberry Pi 4. 
 
-![hanimex](https://github.com/diamond-one/Hanimex-E300-Retro-Computer-/assets/45215287/ca6a069b-19bd-44ab-a5b2-06b519c73c02)
+![hanimex](https://github.com/diamond-one/Hanimex-E300-Retro-Computer-/assets/45215287/a7cab2f0-9762-4d71-a0c4-94f9c99128af)
 
 ## Features
 - **LCD Screen Integration:** Replaces the original optical components with a high-resolution LCD screen.
