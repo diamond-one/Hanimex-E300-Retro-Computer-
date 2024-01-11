@@ -8,11 +8,11 @@ This project turns a vintage Hanimex E300 Super 8 Viewer into a mini CRT look-al
 ## Features
 - **LCD Screen Integration:** Replaces the original optical components with a high-resolution LCD screen.
 - **Raspberry Pi 4:** Utilizes the power of Raspberry Pi 4 for OS and connectivity.
-- **OS:** OS of choice, since it's Raspberry Pi. This project used Kali Linux.
+- **OS:** Linux OS of choice, since it's Raspberry Pi. This project used Kali Linux.
 
 ## Getting Started
 
-### Prerequisites
+### Needed for the build
 - Hanimex E300 Super 8 Viewer
 - Raspberry Pi 4 or other SBC.
 - Raspi Case
@@ -24,7 +24,7 @@ This project turns a vintage Hanimex E300 Super 8 Viewer into a mini CRT look-al
 - Keyboard: This project used a custom orthographic 40% keyboard build. However, any Bluetooth or wired keyboard will do.
 - Mouse: This project used a Lofree Xiaoqiao Bluetooth mouse, but any wired or Bluetooth mouse will do.
 
-## Installation
+## Steps to recreate
 - **Disassemble the Hanimex E300:** Remove the original components to make space for the new electronics. I disposed of the film arms but toyed with the idea of mounting a secondary screen to one of them.
 - **Installation of the LCD Screen:** Fit the LCD screen into the viewer. This involves filing some of the interior of the Hanimex chassis away.
 - **Set Up Raspberry Pi 4:** Install the desired Linux flavour on your Raspberry Pi and then edit the boot/config screen settings for orientation and alignment.
